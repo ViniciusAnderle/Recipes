@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": "2 xícaras de farinha de trigo, 1 xícara de açúcar,1 xícara de cacau em pó, 1 colher de chá de fermento em pó, 1 colher de chá de bicarbonato de sódio,  1/2 colher de chá de sal, 2 ovos, 1 xícara de leite, 1/2 xícara de óleo vegetal, 1 colher de chá de extrato de baunilha, 1 xícara de água quente",
+      "modoPreparo": "Pré-aqueça o forno a 180°C e unte uma forma redonda com manteiga e farinha. Em uma tigela grande, misture a farinha, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Em outra tigela, bata os ovos até ficarem bem misturados. Adicione o leite, o óleo vegetal e o extrato de baunilha. Misture bem. Gradualmente, adicione os ingredientes secos aos ingredientes molhados e misture até obter uma massa homogênea. Por último, adicione a água quente à massa e misture bem. A massa ficará líquida, mas é normal. Despeje a massa na forma preparada e leve ao forno por cerca de 30-35 minutos, ou até que um palito inserido no centro saia limpo. Retire do forno e deixe o bolo esfriar na forma por alguns minutos antes de transferi-lo para uma grade para esfriar completamente. Uma vez que o bolo esteja completamente frio, você pode decorá-lo com cobertura de sua escolha, como ganache de chocolate, chantilly ou glacê. Aproveite o delicioso bolo de chocolate!",
+      "imagem": "https://cozinhaemsegundos.com.br/imagem.php?imagem=images/receitas/1200_receita-de-bolo-de-chocolate-fofinho.jpeg&largura=1116&altura=628"
+    },
+    {
+      "id": 2,
+      "titulo": "Pizza Margherita",
+      "ingredientes": "Massa de pizza, Molho de tomate, Mussarela, Manjericão fresco",
+      "modoPreparo": "Pré-aqueça o forno a uma temperatura alta.  Abra a massa de pizza em uma superfície enfarinhada até obter o tamanho desejado. Espalhe o molho de tomate sobre a massa.  Cubra com uma camada generosa de mussarela. Disponha folhas de manjericão fresco sobre a mussarela. Leve ao forno pré-aquecido e asse até que a massa esteja dourada e o queijo derretido.  Retire do forno, corte em fatias e sirva quente.",
+      "imagem": "https://anamariabraga.globo.com/wp-content/uploads/2020/08/pizza-margherita-1024x576.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Sopa de Legumes",
+      "ingredientes": "Abóbora, Batata, Cenoura, Mandioquinha, Chuchu, Abobrinha, Brócolis, Couve-flor, Ervilha, Milho verde, Vagem, Pimentão, Tomate, Cebola, Alho-poró, Espinafre, Repolho, Nabo, Beterraba, Cebolinha, Salsinha temperos...",
+      "modoPreparo": "Lave e descasque os legumes, cortando-os em pedaços pequenos. Em uma panela grande, aqueça o caldo de legumes até começar a ferver. Adicione os legumes cortados ao caldo fervente. Tempere a sopa com os temperos de sua escolha, como sal, pimenta, ervas e especiarias.  Cozinhe os legumes no caldo fervente até que fiquem macios e cozidos. Isso deve levar cerca de 15 a 20 minutos, dependendo do tamanho dos pedaços.  Quando os legumes estiverem cozidos, desligue o fogo e deixe a sopa esfriar um pouco. Use um liquidificador de imersão para triturar parte dos legumes na panela, criando uma textura mais cremosa. Prove a sopa e ajuste os temperos, se necessário. Aqueça a sopa novamente antes de servir, se preferir. Sirva a sopa de legumes quente, acompanhada de pães, torradas ou croutons, se desejar.",
+      "imagem": "https://receitinhas.com.br/wp-content/uploads/2016/12/Sopa-de-legumes-com-macarrao-recepedia-730x365.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Lasanha",
+      "ingredientes": "Massa de lasanha,  Molho de tomate,  Carne moída,  Queijo muçarela,  Queijo parmesão ralado, Creme de leite, Leite,  Farinha de trigo, Manteiga, Sal,  Pimenta,  Noz-moscada",
+      "modoPreparo": "Prepare o molho de carne moída: Em uma panela, refogue a carne moída até dourar. Adicione o molho de tomate, tempere com sal e pimenta a gosto. Reserve.  Prepare o molho branco: Em outra panela, derreta a manteiga e adicione a farinha de trigo. Cozinhe por alguns minutos para formar um roux. Gradualmente, adicione o leite, mexendo constantemente para evitar grumos. Cozinhe até engrossar. Tempere com sal, pimenta e noz-moscada a gosto. Adicione o creme de leite e misture bem. Montagem da lasanha: Em uma forma retangular, comece com uma camada fina de molho de carne no fundo. Adicione uma camada de massa de lasanha por cima. Em seguida, adicione uma camada de molho branco e uma camada de queijo muçarela. Repita as camadas: Continue alternando as camadas de massa, molho de carne, molho branco e queijo muçarela até que todos os ingredientes sejam usados.  Finalização: Finalize com uma camada de queijo parmesão ralado por cima da última camada de queijo muçarela.  Asse: Cubra a forma com papel alumínio e leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos, até que a lasanha esteja bem cozida e o queijo esteja derretido.  Gratine: Retire o papel alumínio e deixe a lasanha no forno por mais alguns minutos para gratinar o queijo na parte superior. Servir: Retire a lasanha do forno e deixe descansar por alguns minutos antes de cortar em porções individuais. Sirva quente e aproveite!  Lembre-se de que as quantidades exatas de ingredientes podem variar de acordo com o número de porções que você deseja fazer. Certifique-se de ajustar as quantidades conforme necessário.",
+      "imagem": "https://img.cybercook.com.br/receitas/731/lasanha-3-840x480.jpeg?q=75"
+    },
+    {
+      "id": 5,
+      "titulo": "Arroz de Frango",
+      "ingredientes": "Arroz, frango, temperos...",
+      "modoPreparo": "Cozinhe o arroz e o frango, misture...",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgISNvwxNlp7nz9XdOFlkBoNjhRZIdjDEHJCL5uuA512zD9h3kkH_dIc92S9OF6-L3DUQ5UDgPKhS8ryrSTbnidOwUgDrxyHTbXUDE8WSce6OKx0UAKI0qWmvOycnbNOLTnp3bwrr-H-fIkLS-EO11HIxmvSAWlEh-s6v-DzjyQD3Z3IlRZvfrHUSOY/s1237/arroz-cremoso-de-frango-e-bacon.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Salada Caesar",
+      "ingredientes": "Alface, croutons, frango grelhado, molho Caesar...",
+      "modoPreparo": "Misture os ingredientes, adicione o molho...",
+      "imagem": "https://marolacomcarambola.com.br/wp-content/uploads/2019/08/Receita-de-Salada-Caesar-Caesar-Salad-1.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Spaghetti à Carbonara",
+      "ingredientes": "Spaghetti, bacon, ovos, queijo parmesão...",
+      "modoPreparo": "Cozinhe o spaghetti, frite o bacon, misture...",
+      "imagem": "https://i1.wp.com/www.tvcatiafonseca.com.br/wp-content/uploads/2018/01/espaguete-carbonara1.jpg?resize=600%2C401&ssl=1"
+    },
+    {
+      "id": 8,
+      "titulo": "Risoto de Cogumelos",
+      "ingredientes": "Arroz arbóreo, cogumelos, caldo de legumes...",
+      "modoPreparo": "Refogue os cogumelos, cozinhe o arroz...",
+      "imagem": "https://www.cozinhatecnica.com/wp-content/uploads/2021/12/receita-de-risoto-de-cogumelos-480x270.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Frango Assado",
+      "ingredientes": "Frango inteiro, temperos...",
+      "modoPreparo": "Tempere o frango, asse no forno...",
+      "imagem": "https://www.kitano.com.br/wp-content/uploads/2019/07/SSP_2480-Frango-assado-com-salsa-e-cebolinha-1.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Pudim de Leite Condensado",
+      "ingredientes": "Leite condensado, leite, ovos...",
+      "modoPreparo": "Misture os ingredientes, asse em banho-maria...",
+      "imagem": "https://akdelicatessen.com.br/wp-content/uploads/2022/02/pudim-leite-condensado-simples.jpg"
+    }
+ 
+  ]
+  
